@@ -2,7 +2,7 @@
 
 Official Website: https://fengshuibedroom.info/
 
-Free Quick Check Tool: https://fengshuibedroom.info/bedroom-quick-check
+Free Quick Check Tool: https://fengshuibedroom.info/bedroom-quick-check/
 
 
 ---
@@ -24,7 +24,7 @@ https://fengshuibedroom.info/
 The Quick Check tool helps identify layout issues and provides personalized recommendations.
 
 Try it here:
-https://fengshuibedroom.info/bedroom-quick-check
+https://fengshuibedroom.info/bedroom-quick-check/
 
 Features:
 
